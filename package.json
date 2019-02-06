@@ -1,0 +1,19 @@
+{
+  "name": "new-dez-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NakedZed/MyDezRepo.git"
+  },
+  "author": "redaseko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NakedZed/MyDezRepo/issues"
+  },
+  "homepage": "https://github.com/NakedZed/MyDezRepo#readme"
+}
